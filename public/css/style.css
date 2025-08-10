@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'IRANSansDN';
+    src: url('../font/IRANSansDN.eot');
+    src: url('../font/IRANSansDN.eot?#iefix') format('embedded-opentype'), url('../font/IRANSansDN.woff2') format('woff2'), url('../font/IRANSansDN.woff') format('woff'), url('../font/IRANSansDN.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Capsule' !important;
+    src: url('../fonts/Capsule-Black.eot');
+    src: url('../fonts/Capsule-Black.eot?#iefix') format('embedded-opentype'), url('../fonts/Capsule-Black.woff2') format('woff2'), url('../fonts/Capsule-Black.woff') format('woff'), url('../fonts/Capsule-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

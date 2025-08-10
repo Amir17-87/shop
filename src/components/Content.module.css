@@ -1,0 +1,29 @@
+.bannerTitle {
+    font-size: 85px;
+}
+
+.commentTitle {
+    font-size: 25px;
+}
+
+.category {
+    font-size: 30px;
+}
+
+
+/* برای صفحه نمایش کوچکتر از 767px (موبایل) */
+
+@media (max-width: 767px) {
+    .bannerTitle {
+        font-size: 40px;
+    }
+    .commentTitle {
+        font-size: 15px;
+    }
+    .category {
+        font-size: 20px;
+    }
+    .categoryDescription {
+        font-size: 10px;
+    }
+}
